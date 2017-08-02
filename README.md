@@ -9,7 +9,7 @@
 npm install gulp -g
 ~~~
 
-* 全局安装bower  妇
+* 全局安装bower
 ~~~
 npm install bower -g
 ~~~
